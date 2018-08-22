@@ -1,0 +1,9 @@
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\bin\Debug\TesteMemoria.exe.config
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\TesteMemoria.exe
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\TesteMemoria.pdb
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\bin\Debug\TesteMemoria.exe
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\bin\Debug\TesteMemoria.pdb
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\Jogo_da_Memoria.csprojResolveAssemblyReference.cache
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\Jogo_da_Memoria.Form1.resources
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\TesteMemoria.Properties.Resources.resources
+C:\Users\jt_mu\OneDrive\Documentos\Visual Studio 2015\Projects\TesteMemoria\TesteMemoria\obj\Debug\Jogo_da_Memoria.csproj.GenerateResource.Cache
